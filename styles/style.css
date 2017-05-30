@@ -1,0 +1,61 @@
+main {
+  margin-left: 90px;
+}
+
+main p {
+    color: grey;
+}
+
+nav {
+    background-color: LightGrey;
+    text-align: right;
+    position: relative;
+    height: 50px;
+}
+
+.left-absolute {
+  position: absolute;
+  left: 10px;
+}
+
+input {
+
+	width: 300px;
+	height: 25px;
+	border-radius: 5px ;
+	font-size: 100%;
+}
+
+input::placeholder {
+  color: Silver ;
+}
+
+.search-align {
+
+	margin-top: 10px;
+}
+
+img {
+	border: 1px solid grey;
+	border-radius: 5px ;
+
+}
+
+
+ul li {
+
+	display: inline-block;
+	border: 1px solid black;
+	padding: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 5px ;
+	color: grey;
+}
+
+
+span {
+    color: blue;
+    font-weight: bold;
+}
+
